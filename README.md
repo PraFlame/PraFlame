@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PraFlame/PraFlame/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PraFlame&show_icons=true&theme=dark" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/PraFlame/PraFlame/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
